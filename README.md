@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 ## String
@@ -26,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 ## Backtracking
