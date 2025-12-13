@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
@@ -23,6 +24,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 ## Array
 |  |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
