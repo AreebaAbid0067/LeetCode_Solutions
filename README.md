@@ -21,11 +21,13 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -67,4 +70,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
