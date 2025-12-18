@@ -70,6 +70,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
