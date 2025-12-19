@@ -21,12 +21,14 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0086-partition-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
