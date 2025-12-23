@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -30,6 +32,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0086-partition-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
