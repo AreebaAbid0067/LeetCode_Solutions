@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 ## Backtracking
