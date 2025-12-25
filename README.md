@@ -40,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 ## Backtracking
@@ -79,6 +80,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
