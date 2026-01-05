@@ -43,6 +43,7 @@
 | [0066-plus-one](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0337-house-robber-iii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 ## Math
 |  |
