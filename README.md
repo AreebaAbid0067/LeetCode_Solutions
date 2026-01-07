@@ -45,6 +45,7 @@
 | [0090-subsets-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | ------- |
 | [0078-subsets](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0136-single-number) |
 ## Stack
 |  |
 | ------- |
