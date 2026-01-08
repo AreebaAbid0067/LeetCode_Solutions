@@ -40,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0090-subsets-ii) |
@@ -102,5 +103,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
