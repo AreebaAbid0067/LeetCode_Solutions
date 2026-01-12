@@ -54,6 +54,7 @@
 | [0136-single-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
