@@ -52,6 +52,7 @@
 | [0118-pascals-triangle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -103,6 +105,7 @@
 | [0007-reverse-integer](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
