@@ -18,6 +18,7 @@
 | [0020-valid-parentheses](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -141,8 +143,10 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
