@@ -20,6 +20,7 @@
 | [0020-valid-parentheses](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
@@ -44,6 +45,7 @@
 | [0141-linked-list-cycle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Array
 |  |
