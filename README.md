@@ -48,6 +48,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Counting
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 | [0316-remove-duplicate-letters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Monotonic Stack
 |  |
 | ------- |
