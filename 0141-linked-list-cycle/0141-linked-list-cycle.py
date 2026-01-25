@@ -4,6 +4,7 @@
 #         self.val = x
 #         self.next = None
 # random line
+#test
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         
