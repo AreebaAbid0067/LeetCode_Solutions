@@ -23,6 +23,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0821-shortest-distance-to-a-character](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
@@ -51,6 +52,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0821-shortest-distance-to-a-character](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Array
 |  |
@@ -71,6 +73,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [0821-shortest-distance-to-a-character](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
 |  |
