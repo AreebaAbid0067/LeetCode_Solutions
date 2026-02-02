@@ -86,6 +86,7 @@
 | [0078-subsets](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Stack
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
 |  |
@@ -112,6 +114,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 ## Dynamic Programming
 |  |
@@ -137,6 +140,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
