@@ -1,8 +1,8 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        # the sets approach
-        s = set(nums)
-        if len(s) == len(nums): # means no duplicates in nums..bcz distinct in nums and set
+        result_set = set(nums)
+        if len(result_set) == len(nums): #means if there were duplicates in nums array, then result_set would contain less numbers so less in length
             return False
+
         else:
             return True
