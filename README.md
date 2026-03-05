@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -20,6 +21,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -62,6 +64,7 @@
 | [0001-two-sum](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -151,6 +154,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
