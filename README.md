@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
@@ -112,12 +113,14 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
