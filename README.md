@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -75,6 +76,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0455-assign-cookies) |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 | [0169-majority-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0455-assign-cookies) |
@@ -170,6 +174,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
@@ -191,4 +196,16 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
