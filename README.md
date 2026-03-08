@@ -76,6 +76,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
@@ -208,4 +209,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
