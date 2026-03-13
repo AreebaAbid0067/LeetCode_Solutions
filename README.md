@@ -15,6 +15,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,4 +217,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
