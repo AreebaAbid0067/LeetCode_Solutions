@@ -16,6 +16,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -131,6 +134,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -221,4 +225,5 @@
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AreebaAbid0067/LeetCode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
